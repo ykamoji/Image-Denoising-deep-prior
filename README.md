@@ -1,2 +1,1 @@
-# Image-Denoising-deep-prior
-A Bayesian approach for image denoising using an image prior logic with CNN
+![Question 1](https://github.com/ykamoji/Image-Denoising-deep-prior/blob/main/img_refs/question_1.png?raw=true)
