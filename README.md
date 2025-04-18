@@ -14,3 +14,6 @@
 
 ![Analysis](https://github.com/ykamoji/Image-Denoising-deep-prior/blob/main/img_refs/analysis.png?raw=true)
 
+<hr/>
+
+![Improved](https://github.com/ykamoji/Image-Denoising-deep-prior/blob/main/img_refs/improved.png?raw=true)
