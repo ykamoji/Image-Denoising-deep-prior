@@ -6,3 +6,4 @@
 <hr/>
 
 ![Result 1](https://github.com/ykamoji/Image-Denoising-deep-prior/blob/main/img_refs/result_1.png?raw=true)
+![Result 3](https://github.com/ykamoji/Image-Denoising-deep-prior/blob/main/img_refs/result_3.png?raw=true)
